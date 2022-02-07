@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiktikiv
+- 👋 Hi, I’m Muhammad Ivani or u can mention @tiktikiv
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Mathematics and Machine Learning
 - 💞️ I’m looking to collaborate on some project on big data or machine learning
